@@ -1,1 +1,1 @@
-"# PluginCameraCordova" 
+"PluginCameraCordova" 
